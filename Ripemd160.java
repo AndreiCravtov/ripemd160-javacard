@@ -220,6 +220,9 @@ public class Ripemd160 {
                             temp = 2;
                             break;
                         case 16:
+                        case 58:
+                        case 68:
+                        case 41:
                             temp = 7;
                             break;
                         case 17:
@@ -279,9 +282,6 @@ public class Ripemd160 {
                         case 38:
                             temp = 8;
                             break;
-                        case 41:
-                            temp = 7;
-                            break;
                         case 43:
                             temp = 6;
                             break;
@@ -321,9 +321,6 @@ public class Ripemd160 {
                         case 57:
                             temp = 3;
                             break;
-                        case 58:
-                            temp = 7;
-                            break;
                         case 59:
                             temp = 15;
                             break;
@@ -344,9 +341,6 @@ public class Ripemd160 {
                             break;
                         case 67:
                             temp = 9;
-                            break;
-                        case 68:
-                            temp = 7;
                             break;
                         case 69:
                             temp = 12;
@@ -480,6 +474,9 @@ public class Ripemd160 {
                             temp = 2;
                             break;
                         case 16:
+                        case 41:
+                        case 58:
+                        case 68:
                             temp = 7;
                             break;
                         case 17:
@@ -539,9 +536,6 @@ public class Ripemd160 {
                         case 38:
                             temp = 8;
                             break;
-                        case 41:
-                            temp = 7;
-                            break;
                         case 43:
                             temp = 6;
                             break;
@@ -581,9 +575,6 @@ public class Ripemd160 {
                         case 57:
                             temp = 3;
                             break;
-                        case 58:
-                            temp = 7;
-                            break;
                         case 59:
                             temp = 15;
                             break;
@@ -604,9 +595,6 @@ public class Ripemd160 {
                             break;
                         case 67:
                             temp = 9;
-                            break;
-                        case 68:
-                            temp = 7;
                             break;
                         case 69:
                             temp = 12;
@@ -742,6 +730,9 @@ public class Ripemd160 {
                             temp = 2;
                             break;
                         case 16:
+                        case 41:
+                        case 58:
+                        case 68:
                             temp = 7;
                             break;
                         case 17:
@@ -801,9 +792,6 @@ public class Ripemd160 {
                         case 38:
                             temp = 8;
                             break;
-                        case 41:
-                            temp = 7;
-                            break;
                         case 43:
                             temp = 6;
                             break;
@@ -843,9 +831,6 @@ public class Ripemd160 {
                         case 57:
                             temp = 3;
                             break;
-                        case 58:
-                            temp = 7;
-                            break;
                         case 59:
                             temp = 15;
                             break;
@@ -866,9 +851,6 @@ public class Ripemd160 {
                             break;
                         case 67:
                             temp = 9;
-                            break;
-                        case 68:
-                            temp = 7;
                             break;
                         case 69:
                             temp = 12;
@@ -1002,6 +984,9 @@ public class Ripemd160 {
                             temp = 2;
                             break;
                         case 16:
+                        case 58:
+                        case 41:
+                        case 68:
                             temp = 7;
                             break;
                         case 17:
@@ -1061,9 +1046,6 @@ public class Ripemd160 {
                         case 38:
                             temp = 8;
                             break;
-                        case 41:
-                            temp = 7;
-                            break;
                         case 43:
                             temp = 6;
                             break;
@@ -1103,9 +1085,6 @@ public class Ripemd160 {
                         case 57:
                             temp = 3;
                             break;
-                        case 58:
-                            temp = 7;
-                            break;
                         case 59:
                             temp = 15;
                             break;
@@ -1126,9 +1105,6 @@ public class Ripemd160 {
                             break;
                         case 67:
                             temp = 9;
-                            break;
-                        case 68:
-                            temp = 7;
                             break;
                         case 69:
                             temp = 12;
