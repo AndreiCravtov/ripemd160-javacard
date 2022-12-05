@@ -9,9 +9,7 @@ To understand the implementation more clearly, read `Ripemd160.m4`.
 The file `Ripemd160.java` can be obtained my running `m4 Ripemd160.m4 > Ripemd160.java` and then removing redunancies as suggested by the IntelliJ IDEA editor.
 
 # Licence
-
-This project was inspired by Project Nayuki's the RIPEMD160 implementation, which I followed when doing my implementation of RIPEMD160.
-As a result, this project has the following licence:
+This project was inspired by [Project Nayuki's RIPEMD160 implementation](https://github.com/nayuki/Bitcoin-Cryptography-Library/blob/master/java/io/nayuki/bitcoin/crypto/Ripemd160.java).
 
 ```
 MIT License
